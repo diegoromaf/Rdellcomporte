@@ -1,13 +1,13 @@
-##Pushing files to github
+# Pushing files to github
 
-###Command List
+## Command List
 
-*git init
+* git init
 
-*git add .
+* git add .
 
-*git commit -m "1stcommit"
+* git commit -m "1stcommit"
 
-*git remote add origin https://github.com/diegoromaf/Rdellcomporte.git
+* git remote add origin https://github.com/diegoromaf/Rdellcomporte.git
 
-*git remote -v
+* git remote -v
