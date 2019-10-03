@@ -1,5 +1,6 @@
-#Pushing files to github
-##Command List
+##Pushing files to github
+
+###Command List
 
 *git init
 
